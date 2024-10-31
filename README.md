@@ -2,7 +2,7 @@
 
 ## 🚧 Work in Progress
 
-Este portafolio está en constante desarrollo. Estoy trabajando en nuevos proyectos y mejoras para mostrar mis habilidades y experiencias. ¡Gracias por tu paciencia!
+Este portafolio está siendo actualizado. Estoy trabajando en nuevos proyectos de mas calidad y mejoras para mostrar mis habilidades y experiencias. ¡Gracias por tu visita!
 
 Link portafolio:
 
