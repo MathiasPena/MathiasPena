@@ -4,6 +4,10 @@
 
 Este portafolio está en constante desarrollo. Estoy trabajando en nuevos proyectos y mejoras para mostrar mis habilidades y experiencias. ¡Gracias por tu paciencia!
 
+Link portafolio:
+
+[Portafolio](https://mathiaspena.github.io/Portfolio/)
+
 ## 👨‍💻 Sobre mí
 Soy un entusiasta del desarrollo de software y estudiante de Tecnologías de la Información en UTEC. Desde que descubrí la programación, he estado explorando cómo crear soluciones innovadoras y efectivas. Actualmente, estoy en mi sexto semestre de estudios, enfocado en el desarrollo web y aprendiendo sobre Machine Learning con Python.
 
