@@ -1,39 +1,46 @@
-# Mathias Pena Heredia
+# **Mathias Pena Heredia**  
 
-## 🚧 Work in Progress
+## 🚧 **En construcción**  
+¡Hola! Este portafolio está en constante actualización mientras trabajo en proyectos más desafiantes y de mejor calidad para destacar mis habilidades y experiencia.  
+[**Visita mi portafolio aquí**](https://mathiaspena.github.io/Portfolio/)  
 
-Este portafolio está siendo actualizado. Estoy trabajando en nuevos proyectos de mas calidad y mejoras para mostrar mis habilidades y experiencias. ¡Gracias por tu visita!
+---
 
-Link portafolio:
+## 👨‍💻 **Sobre mí**  
+Soy un estudiante de Tecnologías de la Información en UTEC, apasionado por el desarrollo de software y la creación de soluciones innovadoras. Actualmente, estoy en mi sexto semestre y enfocado en expandir mis conocimientos en desarrollo web y explorando el Machine Learning con Python.  
 
-[Portafolio](https://mathiaspena.github.io/Portfolio/)
+---
 
-## 👨‍💻 Sobre mí
-Soy un entusiasta del desarrollo de software y estudiante de Tecnologías de la Información en UTEC. Desde que descubrí la programación, he estado explorando cómo crear soluciones innovadoras y efectivas. Actualmente, estoy en mi sexto semestre de estudios, enfocado en el desarrollo web y aprendiendo sobre Machine Learning con Python.
+## 🌱 **Intereses**  
+- **Desarrollo Full-Stack:** Disfruto combinar creatividad y lógica para construir aplicaciones completas.  
+- **Machine Learning:** Experimentando con Python para crear y entrenar modelos de aprendizaje automático.  
+- **Desarrollo Móvil:** Aprendiendo Kotlin para diseñar aplicaciones Android atractivas y funcionales.  
 
-## 🌱 Intereses
-- **Desarrollo Full-Stack:** Me encanta trabajar en proyectos donde puedo combinar creatividad y habilidades técnicas.
-- **Machine Learning:** Estoy explorando el uso de Python para desarrollar modelos de aprendizaje automático.
-- **Desarrollo Móvil:** Disfruto aprendiendo Kotlin para el desarrollo de aplicaciones en Android.
+---
 
-## 💻 Habilidades
-- **Lenguajes de Programación:** Java, Python, JavaScript, SQL
-- **Tecnologías Web:** HTML, CSS, REST APIs
-- **Bases de Datos:** SQL y NoSQL
-- **Herramientas de Desarrollo:** Git, GitHub, Jira
-- **Metodologías Ágiles:** Experiencia en entornos Scrum y Agile
+## 💻 **Habilidades**  
+- **Lenguajes de Programación:** Java, Python, JavaScript, SQL  
+- **Tecnologías Web:** HTML, CSS, REST APIs  
+- **Bases de Datos:** SQL, NoSQL  
+- **Herramientas y Metodologías:** Git, GitHub, Jira, Scrum, Agile  
 
-## 🚀 Proyectos Destacados
+---
+
+## 🚀 **Proyectos Destacados**  
 1. **[Gestor de Tareas](https://github.com/MathiasPena/proyecto1)**  
-   Aplicación para gestionar tareas con funcionalidades CRUD, utilizando Java y SQL para el backend y HTML/CSS para el frontend.
+   Una aplicación CRUD para gestionar tareas, desarrollada con Java y SQL en el backend, y HTML/CSS en el frontend.  
 
 2. **[Aplicación de Notas](https://github.com/MathiasPena/proyecto2)**  
-   App para tomar notas de manera sencilla, que incluye almacenamiento local y uso de APIs para sincronización.
+   Una app sencilla para tomar y organizar notas, con soporte para almacenamiento local y sincronización mediante APIs.  
 
-## 📫 Contacto
-Puedes contactarme a través de:
-- **Email:** [mathiaspenaheredia@gmail.com](mailto:mathiaspenaheredia@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mathp](https://linkedin.com/in/mathp/)
-- **GitHub:** [github.com/MathiasPena](https://github.com/MathiasPena)
+---
 
-¡Estoy emocionado por las oportunidades futuras y listo para dejar mi huella en el mundo del software!
+## 📫 **Contacto**  
+Si quieres saber más de mí o colaborar en un proyecto, ¡contáctame!  
+- **Email:** [mathiaspenaheredia@gmail.com](mailto:mathiaspenaheredia@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/mathp](https://linkedin.com/in/mathp/)  
+- **GitHub:** [github.com/MathiasPena](https://github.com/MathiasPena)  
+
+---
+
+### ¡Gracias por pasarte! Estoy listo para contribuir y aprender en proyectos que marquen la diferencia en el mundo del desarrollo de software. 😊
