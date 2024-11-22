@@ -1,46 +1,46 @@
 # **Mathias Pena Heredia**  
 
-## 🚧 **En construcción**  
-¡Hola! Este portafolio está en constante actualización mientras trabajo en proyectos más desafiantes y de mejor calidad para destacar mis habilidades y experiencia.  
-[**Visita mi portafolio aquí**](https://mathiaspena.github.io/Portfolio/)  
+## 🚧 **Under Construction**  
+Hi there! This portfolio is constantly being updated as I work on more challenging and higher-quality projects to showcase my skills and experience.  
+[**Visit my portfolio here**](https://mathiaspena.github.io/Portfolio/)  
 
 ---
 
-## 👨‍💻 **Sobre mí**  
-Soy un estudiante de Tecnologías de la Información en UTEC, apasionado por el desarrollo de software y la creación de soluciones innovadoras. Actualmente, estoy en mi sexto semestre y enfocado en expandir mis conocimientos en desarrollo web y explorando el Machine Learning con Python.  
+## 👨‍💻 **About Me**  
+I am an Information Technology student at UTEC, passionate about software development and creating innovative solutions. Currently, I’m in my sixth semester, focusing on expanding my web development skills while exploring Machine Learning with Python.  
 
 ---
 
-## 🌱 **Intereses**  
-- **Desarrollo Full-Stack:** Disfruto combinar creatividad y lógica para construir aplicaciones completas.  
-- **Machine Learning:** Experimentando con Python para crear y entrenar modelos de aprendizaje automático.  
-- **Desarrollo Móvil:** Aprendiendo Kotlin para diseñar aplicaciones Android atractivas y funcionales.  
+## 🌱 **Interests**  
+- **Full-Stack Development:** I enjoy blending creativity and logic to build complete applications.  
+- **Machine Learning:** Experimenting with Python to create and train machine learning models.  
+- **Mobile Development:** Learning Kotlin to design attractive and functional Android apps.  
 
 ---
 
-## 💻 **Habilidades**  
-- **Lenguajes de Programación:** Java, Python, JavaScript, SQL  
-- **Tecnologías Web:** HTML, CSS, REST APIs  
-- **Bases de Datos:** SQL, NoSQL  
-- **Herramientas y Metodologías:** Git, GitHub, Jira, Scrum, Agile  
+## 💻 **Skills**  
+- **Programming Languages:** Java, Python, JavaScript, SQL  
+- **Web Technologies:** HTML, CSS, REST APIs  
+- **Databases:** SQL, NoSQL  
+- **Tools & Methodologies:** Git, GitHub, Jira, Scrum, Agile  
 
 ---
 
-## 🚀 **Proyectos Destacados**  
-1. **[Gestor de Tareas](https://github.com/MathiasPena/proyecto1)**  
-   Una aplicación CRUD para gestionar tareas, desarrollada con Java y SQL en el backend, y HTML/CSS en el frontend.  
+## 🚀 **Featured Projects**  
+1. **[Task Manager](https://github.com/MathiasPena/proyecto1)**  
+   A CRUD application for task management, developed with Java and SQL on the backend and HTML/CSS on the frontend.  
 
-2. **[Aplicación de Notas](https://github.com/MathiasPena/proyecto2)**  
-   Una app sencilla para tomar y organizar notas, con soporte para almacenamiento local y sincronización mediante APIs.  
+2. **[Notes App](https://github.com/MathiasPena/proyecto2)**  
+   A simple app for taking and organizing notes, featuring local storage support and API synchronization.  
 
 ---
 
-## 📫 **Contacto**  
-Si quieres saber más de mí o colaborar en un proyecto, ¡contáctame!  
+## 📫 **Contact**  
+If you’d like to know more about me or collaborate on a project, feel free to reach out!  
 - **Email:** [mathiaspenaheredia@gmail.com](mailto:mathiaspenaheredia@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/mathp](https://linkedin.com/in/mathp/)  
 - **GitHub:** [github.com/MathiasPena](https://github.com/MathiasPena)  
 
 ---
 
-### ¡Gracias por pasarte! Estoy listo para contribuir y aprender en proyectos que marquen la diferencia en el mundo del desarrollo de software. 😊
+### Thanks for stopping by! I’m eager to contribute and learn through projects that make a difference in the software development world. 😊
