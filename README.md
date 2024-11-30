@@ -5,7 +5,7 @@ Hi there! This portfolio is constantly being updated as I work on more challengi
 [**Visit my portfolio here**](https://mathiaspena.github.io/Portfolio/)  
    
 ---
-  
+   
 ## 👨‍💻 **About Me**  
 I am an Information Technology student at UTEC, passionate about software development and creating innovative solutions. Currently, I’m in my sixth semester, focusing on expanding my web development skills while exploring Machine Learning with Python.  
 
