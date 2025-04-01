@@ -16,7 +16,7 @@ I am an Information Technology student at UTEC, passionate about software develo
 ---  
 
 ## 💻 **Skills**  
-- **Programming Languages:** Java, Python, JavaScript, SQL
+- **Programming Languages:** Java, Python, JavaScript, Kotlin, SQL
 - **Frameworks:** SpringBoot
 - **Web Technologies:** HTML, CSS, REST APIs  
 - **Databases:** SQL, NoSQL  
