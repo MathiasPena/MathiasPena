@@ -6,7 +6,7 @@
 I am an Information Technology student at UTEC, passionate about software development and creating innovative solutions. Currently, I’m in my seventh semester, focusing on expanding my web development skills while exploring Machine Learning with Python.  
 
 ---   
-
+ 
 ## 🌱 **Interests**  
 - **Full-Stack Development:** I enjoy blending creativity and logic to build complete applications.  
 - **Machine Learning:** Experimenting with Python to create and train machine learning models.  
