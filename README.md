@@ -1,4 +1,3 @@
-# **Mathias Pena**    
 
 ![GitHub_Banner_Rounded](https://github.com/user-attachments/assets/4462d216-e933-40e0-9475-df66c1b79b08)
      
