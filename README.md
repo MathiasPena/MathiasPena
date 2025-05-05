@@ -1,6 +1,6 @@
 # **Mathias Pena**    
   
-  
+  ![d130af25-e3b2-4a85-8830-f14ba592d05e](https://github.com/user-attachments/assets/b999b238-8c06-41c4-a9b1-848ca8aa05c2)
      
 ## 👨‍💻 **About Me**  
 I am an Information Technology student at UTEC, passionate about software development and creating innovative solutions. Currently, I’m in my seventh semester, focusing on expanding my web development skills while exploring Machine Learning with Python.  
