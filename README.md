@@ -6,7 +6,7 @@ I am an Information Technology student at UTEC, passionate about software develo
    
 ---         
  
-## 🌱 **Interests**   
+## 🌱 **Interests**    
 - **Full-Stack Development:** I enjoy blending creativity and logic to build complete applications.  
 - **Machine Learning:** Experimenting with Python to create and train machine learning models.  
 - **Mobile Development:** Learning Kotlin to design attractive and functional Android apps.  
